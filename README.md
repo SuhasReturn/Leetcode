@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Suhas352005/Leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Suhas352005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Suhas352005/Leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Suhas352005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
