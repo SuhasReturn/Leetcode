@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suhas352005/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Suhas352005/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Suhas352005/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Suhas352005/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
